@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "The Mystery of the Hidden Treasure",
+      "cover_photo": "https://example.com/cover1.jpg",
+      "author_name": "Jane Doe",
+      "author_pic": "https://example.com/author1.jpg",
+      "posted_date": "2024-04-18",
+      "reading_time": 10,
+      "hashtags": ["fiction", "adventure", "mystery"]
+    },
+    {
+      "id": 2,
+      "title": "Exploring the Technological Frontier",
+      "cover_photo": "https://example.com/cover2.jpg",
+      "author_name": "John Smith",
+      "author_pic": "https://example.com/author2.jpg",
+      "posted_date": "2024-04-17",
+      "reading_time": 15,
+      "hashtags": ["science fiction", "technology", "future"]
+    },
+    {
+      "id": 3,
+      "title": "Love in the Time of Uncertainty",
+      "cover_photo": "https://example.com/cover3.jpg",
+      "author_name": "Alice Johnson",
+      "author_pic": "https://example.com/author3.jpg",
+      "posted_date": "2024-04-16",
+      "reading_time": 8,
+      "hashtags": ["romance", "love", "relationships"]
+    },
+    {
+      "id": 4,
+      "title": "The Quest for the Forbidden Artifact",
+      "cover_photo": "https://example.com/cover4.jpg",
+      "author_name": "David Brown",
+      "author_pic": "https://example.com/author4.jpg",
+      "posted_date": "2024-04-15",
+      "reading_time": 12,
+      "hashtags": ["fantasy", "magic", "quest"]
+    },
+    {
+      "id": 5,
+      "title": "Warrior Princess: A Historical Biography",
+      "cover_photo": "https://example.com/cover5.jpg",
+      "author_name": "Emily White",
+      "author_pic": "https://example.com/author5.jpg",
+      "posted_date": "2024-04-14",
+      "reading_time": 20,
+      "hashtags": ["history", "war", "biography"]
+    }
+  ]
+  
