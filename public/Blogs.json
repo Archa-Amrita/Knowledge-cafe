@@ -2,9 +2,9 @@
     {
       "id": 1,
       "title": "The Mystery of the Hidden Treasure",
-      "cover_photo": "https://example.com/cover1.jpg",
+      "cover_photo": "https://images.unsplash.com/photo-1432821596592-e2c18b78144f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "author_name": "Jane Doe",
-      "author_pic": "https://example.com/author1.jpg",
+      "author_pic": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "posted_date": "2024-04-18",
       "reading_time": 10,
       "hashtags": ["fiction", "adventure", "mystery"]
@@ -12,17 +12,17 @@
     {
       "id": 2,
       "title": "Exploring the Technological Frontier",
-      "cover_photo": "https://example.com/cover2.jpg",
+      "cover_photo": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "author_name": "John Smith",
-      "author_pic": "https://example.com/author2.jpg",
+      "author_pic": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "posted_date": "2024-04-17",
       "reading_time": 15,
-      "hashtags": ["science fiction", "technology", "future"]
+      "hashtags": ["science_fiction", "technology", "future"]
     },
     {
       "id": 3,
       "title": "Love in the Time of Uncertainty",
-      "cover_photo": "https://example.com/cover3.jpg",
+      "cover_photo": "https://images.unsplash.com/photo-1508873699372-7aeab60b44ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "author_name": "Alice Johnson",
       "author_pic": "https://example.com/author3.jpg",
       "posted_date": "2024-04-16",
@@ -32,9 +32,9 @@
     {
       "id": 4,
       "title": "The Quest for the Forbidden Artifact",
-      "cover_photo": "https://example.com/cover4.jpg",
+      "cover_photo": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "author_name": "David Brown",
-      "author_pic": "https://example.com/author4.jpg",
+      "author_pic": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "posted_date": "2024-04-15",
       "reading_time": 12,
       "hashtags": ["fantasy", "magic", "quest"]
@@ -42,9 +42,9 @@
     {
       "id": 5,
       "title": "Warrior Princess: A Historical Biography",
-      "cover_photo": "https://example.com/cover5.jpg",
+      "cover_photo": "https://images.unsplash.com/photo-1484627147104-f5197bcd6651?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "author_name": "Emily White",
-      "author_pic": "https://example.com/author5.jpg",
+      "author_pic": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "posted_date": "2024-04-14",
       "reading_time": 20,
       "hashtags": ["history", "war", "biography"]
