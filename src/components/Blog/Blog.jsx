@@ -1,7 +1,7 @@
 import { MdBookmarkBorder } from "react-icons/md";
 import PropTypes from 'prop-types'; // ES6
 
-const Blog = ({ blog, handleAddToBookmark }) => {
+const Blog = ({ blog, handleAddToBookmark, handleAddToReadingTime }) => {
     const { title, cover_photo, author_name, author_pic, reading_time, posted_date, hashtags } = blog;
     console.log(blog)
     return (
@@ -18,7 +18,7 @@ const Blog = ({ blog, handleAddToBookmark }) => {
                 <div className="flex items-center justify-evenly">
                     <span>{reading_time} min read</span>
                     <button onClick={()=>handleAddToBookmark(blog)}>
-                        <span className="mx-2"><MdBookmarkBorder /></span>
+                        <span className="mx-2 text-red-900"><MdBookmarkBorder /></span>
                     </button>
 
                 </div>
@@ -29,12 +29,14 @@ const Blog = ({ blog, handleAddToBookmark }) => {
                     hashtags.map((hash, idx) => <span key={idx}><a>#{hash}</a></span>)
                 }
             </p>
+            <button onClick={() => handleAddToReadingTime(reading_time)} className="border-none underline text-blue-900"> Mark as read</button>
         </div>
     );
 };
 
 Blog.propTypes = {
     blog: PropTypes.object,
-    handleAddToBookmark: PropTypes.func
+    handleAddToBookmark: PropTypes.func,
+    handleAddToReadingTime: PropTypes.func
 }
 export default Blog;
