@@ -3,7 +3,6 @@ import PropTypes from 'prop-types'; // ES6
 
 const Blog = ({ blog, handleAddToBookmark, handleAddToReadingTime }) => {
     const { title, cover_photo, author_name, author_pic, reading_time, posted_date, hashtags } = blog;
-    console.log(blog)
     return (
         <div>
             <img className='h-96 w-full my-4 rounded-md' src={cover_photo} alt={`Cover picture of the title ${title}`} />
